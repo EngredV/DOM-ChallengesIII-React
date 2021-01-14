@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dropdown select {
+  width: 200px;
+  margin: 0 0.3em 10em 0;
+  font-weight: semi-bold;
+  position: relative;
+  font-family: baskerville, sans-seriff;
+  background-color: #fefefe;
+  background-image: linear-gradient(315deg, #fefefe 0%, #00a4e4 74%);
+  border: 6px solid transparent;
+  border-color: #ffffff transparent transparent transparent;
+  display: block;
+  font-size: 20px;
+	
+}
+
+.btns {
+  font-family: baskerville, sans-seriff;
+  font-size: 2.0rem;
+  font-weight: semi-bold;
+  text-align: center;
+  transition: all 0.2s;
+  display: inline-block;
+  padding: 0.35em 0.35em;
+  margin: 0.5em 0.5em 1.0em 0;
+  border-radius: 2rem;
+  box-sizing: border-box;
+  border: 0.1em solid;
+  border-color: #ffffff transparent transparent transparent;
+  background-color: #fefefe;
+  background-image: linear-gradient(315deg, #fefefe 0%, #00a4e4 74%);
+  box-shadow: -6px -6px 10px rgba(255, 255, 255, 0.8),
+  6px 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+#black {
+  background-color: #000000;
+}
+
+#red {
+  background-color: #FF0000;
+}
+
+#deepPink {
+  background-color: #FF1493;
+}
+
+#pink {
+  background-color: #FFC0CB;
+}
+
+#purple {
+  background-color: #800080;
+}
+
+#blue {
+  background-color: #0000FF;
+}
+
+#lightBlue {
+  background-color: #00DAFF;
+}
+
+#green {
+  background-color: #008000;
+}
+
+#lightGreen {
+  background-color: #98FB98;
+}
+
+#orange {
+  background-color: #FFC04D;
+}
+
+#yellow {
+  background-color: #FFFF00;
+}
+
+tr, td {
+  border: 6px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: #FFFFFF;
+}
+
+
+
