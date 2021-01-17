@@ -10,7 +10,7 @@ const Table = ({ cellColor, rows, columns, handleClick }) => {
                 key={i}
                 cellColor={cellColor}
                 columns={columns}
-                handleClick={handleClick}
+                handleClick={handleClick}   
             />
         )
     }
