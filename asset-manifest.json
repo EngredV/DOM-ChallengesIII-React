@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DOM-ChallengesIII-React/static/css/main.2f4c355b.chunk.css",
+    "main.css": "/DOM-ChallengesIII-React/static/css/main.7b7e3477.chunk.css",
     "main.js": "/DOM-ChallengesIII-React/static/js/main.c31181e6.chunk.js",
     "main.js.map": "/DOM-ChallengesIII-React/static/js/main.c31181e6.chunk.js.map",
     "runtime-main.js": "/DOM-ChallengesIII-React/static/js/runtime-main.97877d93.js",
@@ -10,13 +10,13 @@
     "static/js/3.910847da.chunk.js": "/DOM-ChallengesIII-React/static/js/3.910847da.chunk.js",
     "static/js/3.910847da.chunk.js.map": "/DOM-ChallengesIII-React/static/js/3.910847da.chunk.js.map",
     "index.html": "/DOM-ChallengesIII-React/index.html",
-    "static/css/main.2f4c355b.chunk.css.map": "/DOM-ChallengesIII-React/static/css/main.2f4c355b.chunk.css.map",
+    "static/css/main.7b7e3477.chunk.css.map": "/DOM-ChallengesIII-React/static/css/main.7b7e3477.chunk.css.map",
     "static/js/2.63b633d8.chunk.js.LICENSE.txt": "/DOM-ChallengesIII-React/static/js/2.63b633d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97877d93.js",
     "static/js/2.63b633d8.chunk.js",
-    "static/css/main.2f4c355b.chunk.css",
+    "static/css/main.7b7e3477.chunk.css",
     "static/js/main.c31181e6.chunk.js"
   ]
 }
